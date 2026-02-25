@@ -1,5 +1,4 @@
 #Array & list basic
-
 def  find_max(number):
     max_val = number[0]
     for num in number:
